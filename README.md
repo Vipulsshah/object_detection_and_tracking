@@ -13,7 +13,7 @@
   following are the steps to implement the project in your device. <br>
   <p>
     1.	Create a new project into pycharm and crate new virtual environment. <br>
-    2.	Clone the complete project from github repository from the link give in the mail.  <br>
+    2.	Clone the complete project from github repository.  <br>
     3.	Download all the required libraries for the project into new virtual environment using command:  <br>
     >> pip install -r requirements.txt  <br>
     4.	Downloaded and place the weights file ‘yolov5s.pt’ in your project directory from “https://github.com/ultralytics/yolov5/releases”.  <br>
