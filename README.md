@@ -1,4 +1,4 @@
-# object_detection_and_tracking:
+# Object Detection and Tracking on Live Webcam:
 <div>
   In this project I have implemented the following:
   <p>
